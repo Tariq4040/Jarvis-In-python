@@ -1,0 +1,23 @@
+1)Audio Vioce Catcher.......Module-->>import pyttsx3(q k install ni ho ga sooo,cmd use krte hwe command run kre pip install pyttsx3,es trha se ye module install hp jaye ga.)
+2)datetime
+3)speechRecognition
+4)Wikipedia ....for open the Wikipedia
+5)web browser,youtube,google and other ko browser me open krne k lea ........
+6)pyaudio........it the most important for speaking purpose and also heard the voices
+7)os ........for playing the music 
+
+
+list of all Modules:
+import pyttsx3
+import datetime
+import wikipedia
+import speech_recognition as sr
+import pyaudio
+import webbrowser
+import os
+import random
+import smtplib
+
+
+hm random module ko use krte hwe  randomaly songs bi play kr skte h like....mtlb condition apply krni orhe gi.
+random(songs[0]>len(songs-1))

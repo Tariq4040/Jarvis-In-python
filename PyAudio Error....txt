@@ -1,0 +1,10 @@
+hme ak error face krna prhta h jb pyaudio k name se,os se dal krne k lea hm hm ne oper ak video dowload ki h ose daikh le hope so k ap ki tmaam problems solve ho jaye gi
+
+
+Second Solution:
+
+Run CMD as admin then run following two commands this will do the work:
+
+1.pip install pipwin
+
+2.pipwin install pyaudio
